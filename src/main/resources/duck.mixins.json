@@ -1,0 +1,8 @@
+{
+	"required": true,
+	"package": "supsm.duck.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [],
+	"server": [ "servergamepacketlistenerimpl_mixin" ],
+	"injectors": { "defaultRequire": 1 }
+}
